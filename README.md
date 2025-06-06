@@ -1,17 +1,14 @@
 # Examen_Ciencia_Datos
-Ciencia de Datos es una disciplina que combina estadística, programación y conocimiento del dominio para analizar datos y obtener conocimiento útil. Se utiliza en sectores como salud, finanzas, transporte y más.
-Incluye etapas como:
-recolección, limpieza, análisis, visualización y modelado predictivo.
-La importación de datos es el primer paso del análisis. Consiste en traer datos desde fuentes externas (archivos, bases de datos, APIs) hacia herramientas como Python o R para poder procesarlos.
-Una buena importación asegura calidad y precisión en todo el proceso analítico.
-El propósito principal es convertir datos en conocimiento accionable.
-Busca responder preguntas clave como:
-- ¿Qué está pasando? (análisis descriptivo)
-- ¿Por qué está pasando? (análisis diagnóstico)
-- ¿Qué pasará? (predicción)
-- ¿Qué debo hacer? (prescripción)
-Objetivos concretos:
-- Tomar mejores decisiones basadas en evidencia.
-- Descubrir patrones ocultos o relaciones significativas.
-- Automatizar procesos mediante modelos predictivos o de clasificación.
-El propósito de la ciencia de datos es generar valor a partir de los datos, y el propósito de la importación es tener esos datos disponibles, organizados y listos para ser analizados.
+Propósito del Proyecto (Teachable Machine + Clasificador de Imágenes)
+Desarrollar un modelo de reconocimiento visual capaz de clasificar objetos cotidianos (como celular, taza y helicóptero) en tiempo real mediante una cámara web, utilizando aprendizaje automático accesible y sin necesidad de escribir código complejo.
+Objetivos específicos del proyecto:
+- Entrenar un modelo de clasificación de imágenes personalizado usando Teachable Machine.
+- Capturar imágenes en tiempo real con una webcam para hacer predicciones visuales.
+- Implementar el modelo en una página web mediante JavaScript y TensorFlow.js.
+- Visualizar en pantalla las probabilidades de clasificación en tiempo real para cada clase entrenada.
+- Demostrar el potencial del aprendizaje automático accesible para educación, prototipado rápido o pruebas de concepto.
+Aplicaciones del propósito:
+- Educación en inteligencia artificial e informática visual.
+- Prototipos de interfaces interactivas para personas sin experiencia en programación.
+- Entrenamiento de modelos rápidos para pruebas en campo (por ejemplo, reconocimiento de objetos en inventario, juguetes, herramientas).
+- Proyectos de ciencia o feria tecnológica escolar o universitaria.
